@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # Calculator project
-
+# Created a calculator that does basic arithmetic.
 import math
 contin = True
 accum = 0.0
