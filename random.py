@@ -1,3 +1,5 @@
+# this program asks you to guess a number and matches it to the number received from the num variable. If it is lower than the number in num, is prints too low. IF it is higher, it prints too high. If it the same, it will print correct.
+
 import random
 
 num = random.randint(1, 10)
