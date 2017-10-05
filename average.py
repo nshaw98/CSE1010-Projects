@@ -1,3 +1,5 @@
+# This program averages a set amount of numbers.
+
 avg = 0
 print("How many numbers are to be averaged?")
 num = int(input())
