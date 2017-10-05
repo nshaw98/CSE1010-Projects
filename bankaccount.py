@@ -1,4 +1,5 @@
 accounts = {}
+# Created a bank account program that creates new bank accounts, finds accounts, receives the balance of an account, makes deposits and withdrawals. I tested the program using the main function.
 
 def create_acct(number, name, balance):
 	global accounts
